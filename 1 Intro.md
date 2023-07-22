@@ -76,10 +76,10 @@ So as it was impossible to cover the vast corpus of Sanskrit literature, 14 gems
    * Shishupala Vadha
   
 10. Bhatta Narayana
-   * Venisamhar - Bhima is the nayaka of Mahabharatha
-   * Very powerful words
-   * Portrayed bheebatsa rasa to the best
-   * Navarasa means Nine Emotions in which Nava signifies nine and Rasa signifies Emotions. The nine emotions included in Navarasa are Shringara (love/beauty), Hasya(laughter), Karuna (sorrow), Raudra (anger), Veera ( heroism/courage), Bhayanaka (terror/fear), Bibhatsya (disgust), Adbutha (surprise/wonder), and Shantha (peace or tranquility)
+    * Venisamhar - Bhima is the nayaka of Mahabharatha
+    * Very powerful words
+    * Portrayed bheebatsa rasa to the best
+    * Navarasa means Nine Emotions in which Nava signifies nine and Rasa signifies Emotions. The nine emotions included in Navarasa are Shringara (love/beauty), Hasya(laughter), Karuna (sorrow), Raudra (anger), Veera ( heroism/courage), Bhayanaka (terror/fear), Bibhatsya (disgust), Adbutha (surprise/wonder), and Shantha (peace or tranquility)
 
 11. Bhavabhuti
     * Master of Karunya
