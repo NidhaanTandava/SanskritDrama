@@ -31,5 +31,16 @@ So what is covered if the Vedas, Puranas, Upanishads, Ithihasas are removed. Pro
 
 > मेघ माघे गतं वयः
 
-* I spent my entire life in Megadhutha & Maga's Shishupala Vadha *
+*I spent my entire life in Megadhutha & Maga's Shishupala Vadha*
+
+So 14 gems of Sanskrit literature & their works were picked up for this course:
+1. Bhasa
+   * Panini (~5th Century BC) & Patanjali (~1st Century BC)
+   * Patanjali refers to Panini, but not Bhasa
+   * Prevalent theory is that Bhasa's works were destroyed as he stood up against the Yavanas after the time of Itihasas
+   * His work was preserved in South India by Chakyars through Kutiyattam, the oldest form of theatrical form
+   * No northern rescensions of Bhasa's plays
+   * That is why Patanjali who was in North could not refer to Bhasa
+  
+  
 
