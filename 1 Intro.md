@@ -12,3 +12,17 @@ Rajshekara, a great rhetorician & poetician, in his work [Kavyamimamsa](https://
 * Dhvani school
 * Further [reading](https://nivedita2015.wordpress.com/2016/07/12/history-of-sanskrit-poetics-short-notes/)
 
+But how did Literature/Poetry/Kavya come into existence?
+* Since many of the poets were patronised by the kings, the sthuthi(panegyrics) could have been one of the reasons
+* Another theory is Love, which inspired Kavyam driven by Shringara
+* The heroics of the kings (VeeraGatha, ShouryaGatha) was told by their bards
+
+### Scope of OLA Sahitya Course
+
+Can the Vedas be called Literature?
+* It is not Sahitya as it is Apourusheya. Because it is considered as revelation it is not considered as literature.
+
+Then is Ramayana/Mahabharatha Sahitya?
+* It is considered as Ithihasa, although Ramayana is considered as AdhiKavya & Valmiki as AdhiKavi
+* 
+
