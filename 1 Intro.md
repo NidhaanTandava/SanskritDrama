@@ -47,5 +47,18 @@ So as it was impossible to cover the vast corpus of Sanskrit literature, 14 gems
    * He stands for the common people
    * Mṛcchakatika will be covered where he covers the story of very common people like thief, vaishya, daasi
   
+3. Bhrthrhari
+   * ShathakaTrayam - Nithi, Vairagya & Shringara Shathaka
+
+4. Kalidasa
+   * Kalikula guru
+   * Soundarya Anveshi
+  
+5. Vishakhadatta
+   * MudraRakshasa, is a marvelous play, a political drama between Kautilya & Mudrarakshasa
+
+6. Bharavi
+   * Kiratarjuniya
+  
   
 
