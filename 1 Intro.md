@@ -34,7 +34,7 @@ So what is covered if the Vedas, Puranas, Upanishads, Ithihasas are removed. Pro
 *I spent my entire life in Megadhutha & Maga's Shishupala Vadha*
 
 So as it was impossible to cover the vast corpus of Sanskrit literature, 14 gems of Sanskrit literature & their works were picked up for this course:
-1. Bhasa
+1. Bhasa (4th Century BCE)
    * Panini (~5th Century BC) & Patanjali (~1st Century BC)
    * Patanjali refers to Panini, but not Bhasa
    * Prevalent theory is that Bhasa's works were destroyed as he stood up against the Yavanas after the time of Itihasas
@@ -60,6 +60,40 @@ So as it was impossible to cover the vast corpus of Sanskrit literature, 14 gems
 6. Bharavi
    * Kiratarjuniya
    * Decipher deep meaning
+  
+7. Dhandi
+   * Dashakumaracharitha
+  
+8. Banabhatta
+   * Drishya Kavya & Shravya Kavya
+   * 10 times of Drishya Kavya (dramas)
+   * Shravya Kavya - Gadya, Padya, Champu
+   * Banabhatta, Dhandi stands for Gadya Kavya(GV)
+   * GV is difficult & Banabhatta excels in it
+   * Kadambari(fiction) & Harshacharitha(histiography of Harshavardhana king)
+  
+9. Magha
+   * Shishupala Vadha
+  
+10. Bhatta Narayana
+   * Venisamhar - Bhima is the nayaka of Mahabharatha
+   * Very powerful words
+   * Portrayed bheebatsa rasa to the best
+   * Navarasa means Nine Emotions in which Nava signifies nine and Rasa signifies Emotions. The nine emotions included in Navarasa are Shringara (love/beauty), Hasya(laughter), Karuna (sorrow), Raudra (anger), Veera ( heroism/courage), Bhayanaka (terror/fear), Bibhatsya (disgust), Adbutha (surprise/wonder), and Shantha (peace or tranquility)
+
+11. Bhavabhuti
+    * Master of Karunya
+    * Dampitya prema in Uttararamacarita
+
+12. Jayadeva
+    * Gita Govinda
+    * Untranslatable in the melliflous
+   
+13. Shriharsha
+    * Naishadha Charita
+
+14. Jaganath Panditha (16 century CE)
+    * Ganga lahari
   
   
 
