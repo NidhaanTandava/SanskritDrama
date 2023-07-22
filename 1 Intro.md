@@ -59,6 +59,7 @@ So as it was impossible to cover the vast corpus of Sanskrit literature, 14 gems
 
 6. Bharavi
    * Kiratarjuniya
+   * Decipher deep meaning
   
   
 
