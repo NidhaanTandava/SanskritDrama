@@ -24,7 +24,7 @@ Can the Vedas be called Literature?
 
 Then is Ramayana/Mahabharatha Sahitya?
 * It is considered as Ithihasa, although Ramayana is considered as AdhiKavya & Valmiki as AdhiKavi
-* It Mahabharatha too, there is beautiful poetics
+* In Mahabharatha too, there is beautiful poetics
 * But since it was not composed as a literary piece to be relished by the Rasikas, these are not considered for this course
 
 So what is covered if the Vedas, Puranas, Upanishads, Ithihasas are removed. Professor talks about an old wise man who was asked that he must have knowledge about a lot of things to which he replied:
@@ -33,7 +33,7 @@ So what is covered if the Vedas, Puranas, Upanishads, Ithihasas are removed. Pro
 
 *I spent my entire life in Megadhutha & Maga's Shishupala Vadha*
 
-So 14 gems of Sanskrit literature & their works were picked up for this course:
+So as it was impossible to cover the vast corpus of Sanskrit literature, 14 gems of Sanskrit literature & their works were picked up for this course:
 1. Bhasa
    * Panini (~5th Century BC) & Patanjali (~1st Century BC)
    * Patanjali refers to Panini, but not Bhasa
@@ -41,6 +41,11 @@ So 14 gems of Sanskrit literature & their works were picked up for this course:
    * His work was preserved in South India by Chakyars through Kutiyattam, the oldest form of theatrical form
    * No northern rescensions of Bhasa's plays
    * That is why Patanjali who was in North could not refer to Bhasa
+  
+2. Shudraka
+   * Jana kavi
+   * He stands for the common people
+   * Mṛcchakatika will be covered where he covers the story of very common people like thief, vaishya, daasi
   
   
 
