@@ -33,3 +33,5 @@
     * Arthashastra of Kautilya belongs in the Maurya dynasty which was pre christian era
     * Here Kautilya mentions that he has borrowed one of the verse from an earlier author which is found in one of Bhasa's play
     * If so, Bhasa can be placed at 3rd or 4th century BCE
+
+  ## Stopped at 30.41
