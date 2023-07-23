@@ -17,3 +17,6 @@
   * Ganapathi Shastri did a detailed manuscriptual studies & textual criticism and came to conclusion & others are also of Bhasa:
     * In all these places,it starts with the same:
       > नान्द्यते ततः प्रविशति सूत्रधारः
+    * All dramas by Kalidas, Harsha etc start with a Nandi (bendectory verse), the stage manager (SoothraDhara) presents the play to the spectators
+    * But in Bhasa's play, the Nandi is played behind the curtain and then the stage manager enters
+    * All the Kanchukis/Prathiharas (doorkeeper) name are the same in most of the plays
