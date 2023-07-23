@@ -12,7 +12,7 @@
   * Kalidasa was placed in 5th century CE due to one of his plays that refers to Chandragupta 2 (Vikramaditya)
   * This was a golden period in Indian history & if Kalidasa was referring to Bhasa, Bhasa must be placed in 2nd or 3rd century CE
   * Ganapathi Shastri ascribes all the 13 plays to Bhasa, but in none of these plays in preface or anywhere Bhasa refers to himself
-  * Rajasekara in 9th century ad clearly states that though Svapnavasavadattam was burned, it could not be burnt by the fire. In that letter he ascribes Svapnavasavadattam as Bhasa's work
+  * Rajasekara in 9th century had clearly states that though Svapnavasavadattam was burned, it could not be burnt by the fire. In that letter he ascribes Svapnavasavadattam as Bhasa's work
   * So out of the 10 discovered in the bunch, one is definitely of Bhasa. But what about the other 9?
   * Ganapathi Shastri did a detailed manuscriptual studies & textual criticism and came to conclusion & others are also of Bhasa:
     * In all these places,it starts with the same:
@@ -20,3 +20,5 @@
     * All dramas by Kalidas, Harsha etc start with a Nandi (bendectory verse), the stage manager (SoothraDhara) presents the play to the spectators
     * But in Bhasa's play, the Nandi is played behind the curtain and then the stage manager enters
     * All the Kanchukis/Prathiharas (doorkeeper) name are the same in most of the plays
+    * Similar sentences in all thes plays
+    * Despite lot of evidence, many scholars opposed the authoship of Bhasa
