@@ -7,4 +7,6 @@
   * This shows how Bhasa was already a well renowned poet, but none of his works had survived the milleniums
   * It was still played by the Chakyars like Urubhangam, Karnabharam etc without knowing that this was by Mahakavi Bhasa
   * So a great gratitude is owed to Ganapathi Shastri
-* Bhasa wrote 13 plays, more than a lot of his
+* Bhasa wrote 13 plays, more than Kalidasa, Bhavabhuti, Harsha, Shudraka put together
+* Kalidasa was placed in 5th century CE due to one of his plays that refers to Chandragupta 2 (Vikramaditya)
+  * This was a golden period in Indian history & if Kalidasa was referring to Bhasa, Bhasa must be placed in 2nd or 3rd century CE
