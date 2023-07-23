@@ -22,3 +22,8 @@
     * All the Kanchukis/Prathiharas (doorkeeper) name are the same in most of the plays
     * Similar sentences in all thes plays
     * Despite lot of evidence, many scholars opposed the authoship of Bhasa
+* But what do we know of Bhasa?
+  * From his dramas, there are so many allusions of Ujjaini, Kosambi, Kashi, Shravasthi
+  * But then why were none of his works found in the North
+  * It is theorised that as the North was under attack from the invaders, a lot of the work of scholars were destroyed
+  * But in the south, where the invaders could not reach, it was preserved by the Chakyars, the oldest theatrical art form of India
