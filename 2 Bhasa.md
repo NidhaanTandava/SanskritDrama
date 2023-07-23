@@ -8,5 +8,12 @@
   * It was still played by the Chakyars like Urubhangam, Karnabharam etc without knowing that this was by Mahakavi Bhasa
   * So a great gratitude is owed to Ganapathi Shastri
 * Bhasa wrote 13 plays, more than Kalidasa, Bhavabhuti, Harsha, Shudraka put together
-* Kalidasa was placed in 5th century CE due to one of his plays that refers to Chandragupta 2 (Vikramaditya)
+* The Bhasa problem - how can the 13 plays be ascribed to Bhasa?
+  * Kalidasa was placed in 5th century CE due to one of his plays that refers to Chandragupta 2 (Vikramaditya)
   * This was a golden period in Indian history & if Kalidasa was referring to Bhasa, Bhasa must be placed in 2nd or 3rd century CE
+  * Ganapathi Shastri ascribes all the 13 plays to Bhasa, but in none of these plays in preface or anywhere Bhasa refers to himself
+  * Rajasekara in 9th century ad clearly states that though Svapnavasavadattam was burned, it could not be burnt by the fire. In that letter he ascribes Svapnavasavadattam as Bhasa's work
+  * So out of the 10 discovered in the bunch, one is definitely of Bhasa. But what about the other 9?
+  * Ganapathi Shastri did a detailed manuscriptual studies & textual criticism and came to conclusion & others are also of Bhasa:
+    * In all these places,it starts with the same:
+      > नान्द्यते ततः प्रविशति सूत्रधारः
