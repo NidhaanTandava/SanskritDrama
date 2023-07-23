@@ -27,3 +27,9 @@
   * But then why were none of his works found in the North
   * It is theorised that as the North was under attack from the invaders, a lot of the work of scholars were destroyed
   * But in the south, where the invaders could not reach, it was preserved by the Chakyars, the oldest theatrical art form of India
+  * Rajashekara in his KaviVimarsha beliefs that Bhasa was born in washerman's family
+  * Many others think he is from a learned family
+  * Now to date him, many think he was an older contemporary of Kalidas, but Ganapathi Shastri provides the following evidence:
+    * Arthashastra of Kautilya belongs in the Maurya dynasty which was pre christian era
+    * Here Kautilya mentions that he has borrowed one of the verse from an earlier author which is found in one of Bhasa's play
+    * If so, Bhasa can be placed at 3rd or 4th century BCE
